@@ -18,7 +18,8 @@ public class capsLook {
 		else 
 			System.out.println(word);
 
-		
+		System.out.println();
+
 		
 		
 	}
